@@ -1,7 +1,9 @@
 # Drashaun Morrow
+# CaseStudy-Classes.py
 #Case study, lists functions and classes
 # Utilizing Python version 3.8.10
-
+# This program will take inputs from the user and store them as attributes inside of a superclass,
+# and subclass then output that information.
 
 # create class
 class Vehicle():
